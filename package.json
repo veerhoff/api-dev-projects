@@ -1,0 +1,22 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "Root folder for API Dev Projects for FCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veerhoff/api-dev-projects-fcc.git"
+  },
+  "author": "Alex Verhoef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veerhoff/api-dev-projects-fcc/issues"
+  },
+  "homepage": "https://github.com/veerhoff/api-dev-projects-fcc#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
